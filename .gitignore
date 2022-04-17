@@ -1,4 +1,5 @@
-.idea
+/.idea
 target/
 HELP.md
 .vscode
+.idea
